@@ -230,7 +230,7 @@ cv.waitKey(0)
 # cv.destroyAllWindows()
 
 '''Drawing contour around objects in the image'''
-https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html
+# https://docs.opencv.org/3.4/d4/d73/tutorial_py_contours_begin.html
 
 image_path = r"C:\Users\Vikas Dubey\Downloads\dog.png"
 

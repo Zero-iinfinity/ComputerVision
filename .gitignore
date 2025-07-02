@@ -1,0 +1,8 @@
+# Ignore IDE settings
+.idea/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore model weights and binaries
+*.pt
